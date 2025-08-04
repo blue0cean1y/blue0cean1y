@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m Junior web developer
+- 🔭 I’m fullstack web developer
 - 🌱 I’m currently in the process of learning and expanding my skilss
 - 🤔 I’m looking for help with github
 - 💬 Please don't hesitate to reach out and ask any question
